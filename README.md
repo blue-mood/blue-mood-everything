@@ -1,5 +1,6 @@
 # Blue Mood everything!
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/48550867"></p>
+
 This repository aims to aggregate links to all projects related to [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html), so that they are easier to find for anyone interested.
 
 ## The original theme
