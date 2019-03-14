@@ -1,10 +1,10 @@
 # Blue Mood everything!
-![Blue Mood logo](https://avatars3.githubusercontent.com/u/48550867)
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/48550867"></p>
 This repository aims to aggregate links to all projects related to [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html), so that they are easier to find for anyone interested.
 
 ## The original theme
 
-The original colorscheme comes [from a theme for the emacs text editor](https://emacsthemes.com/themes/blue-mood-theme.html). For those using Emacs, it is included in the [replace-colorthemes repository](https://github.com/emacs-jp/replace-colorthemes), and can be installed via installing the MELPA package color-theme-modern.
+The original colorscheme comes [from a theme for the emacs text editor](https://emacsthemes.com/themes/blue-mood-theme.html). For those using Emacs, it is included in the [replace-colorthemes repository](https://github.com/emacs-jp/replace-colorthemes), and can be installed via installing the MELPA package [color-theme-modern](http://melpa.org/#/color-theme-modern).
 
 ## My own implementations for other applications and interfaces
 For installation and activation, see the instructions included in the repositories.
