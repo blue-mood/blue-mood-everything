@@ -20,7 +20,7 @@ For installation and activation, see the instructions included in the repositori
 ![micro screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/screenshot.png)
 ### [kate/kwrite](https://github.com/lmintmate/blue-mood-kate)
 ![kate screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-kate/master/screenshot.png)
-### [Sublime Text 3](https://github.com/lmintmate/blue-mood-sublime)
+### [Sublime Text](https://github.com/lmintmate/blue-mood-sublime)
 ![sublime-text screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-sublime/master/screenshot.png)
 
 ### Terminal emulators
