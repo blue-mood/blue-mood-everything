@@ -13,7 +13,7 @@ For installation and activation, see the instructions included in the repositori
 ### Text editors
 
 ### [Vim](https://github.com/lmintmate/blue-mood-vim)
-![vim screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-vim/master/screenshot.png)
+![vim screenshot](screenshots/vim-screenshot.png)
 ### [Gedit/pluma/xed](https://github.com/lmintmate/blue-mood-gedit)
 ![xed/gedit screenshot](screenshots/gedit-screenshot.png)
 ### [micro](https://github.com/lmintmate/blue-mood-micro)
