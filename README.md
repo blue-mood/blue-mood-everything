@@ -17,7 +17,7 @@ For installation and activation, see the instructions included in the repositori
 ### [Gedit/pluma/xed](https://github.com/lmintmate/blue-mood-gedit)
 ![xed/gedit screenshot](screenshots/gedit-screenshot.png)
 ### [micro](https://github.com/lmintmate/blue-mood-micro)
-![micro screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/screenshot.png)
+![micro screenshot](screenshots/micro-screenshot.png)
 ### [kate/kwrite](https://github.com/lmintmate/blue-mood-kate)
 ![kate screenshot](screenshots/kate-screenshot.png)
 ### [Sublime Text](https://github.com/lmintmate/blue-mood-sublime)
