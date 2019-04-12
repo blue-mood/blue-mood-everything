@@ -21,7 +21,7 @@ For installation and activation, see the instructions included in the repositori
 ### [kate/kwrite](https://github.com/lmintmate/blue-mood-kate)
 ![kate screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-kate/master/screenshot.png)
 ### [Sublime Text](https://github.com/lmintmate/blue-mood-sublime)
-![sublime-text screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-sublime/master/screenshot.png)
+![sublime-text screenshot](screenshots/sublime-screenshot.png)
 
 ### Terminal emulators
 
