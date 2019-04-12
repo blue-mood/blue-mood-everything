@@ -19,7 +19,7 @@ For installation and activation, see the instructions included in the repositori
 ### [micro](https://github.com/lmintmate/blue-mood-micro)
 ![micro screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/screenshot.png)
 ### [kate/kwrite](https://github.com/lmintmate/blue-mood-kate)
-![kate screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-kate/master/screenshot.png)
+![kate screenshot](screenshots/kate-screenshot.png)
 ### [Sublime Text](https://github.com/lmintmate/blue-mood-sublime)
 ![sublime-text screenshot](screenshots/sublime-screenshot.png)
 
