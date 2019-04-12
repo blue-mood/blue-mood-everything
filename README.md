@@ -26,7 +26,7 @@ For installation and activation, see the instructions included in the repositori
 ### Terminal emulators
 
 ### [Xresources](https://github.com/lmintmate/blue-mood-xresources)
-![xresources screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-xresources/master/screenshot.png)
+![xresources screenshot](screenshots/xresources-screenshot.png)
 ### [konsole](https://github.com/lmintmate/blue-mood-konsole)
 ![konsole screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-konsole/master/screenshot.png)
 ### [Gnome terminal and derivatives](https://gist.github.com/lmintmate/176a3c1b322726fbad7da6b1c60fe014) (using [Gogh](https://github.com/Mayccoll/Gogh))
