@@ -15,7 +15,7 @@ For installation and activation, see the instructions included in the repositori
 ### [Vim](https://github.com/lmintmate/blue-mood-vim)
 ![vim screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-vim/master/screenshot.png)
 ### [Gedit/pluma/xed](https://github.com/lmintmate/blue-mood-gedit)
-![xed screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-gedit/master/screenshot.png)
+![xed/gedit screenshot](screenshots/gedit-screenshot.png)
 ### [micro](https://github.com/lmintmate/blue-mood-micro)
 ![micro screenshot](https://raw.githubusercontent.com/lmintmate/blue-mood-micro/master/screenshot.png)
 ### [kate/kwrite](https://github.com/lmintmate/blue-mood-kate)
