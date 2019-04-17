@@ -34,7 +34,7 @@ For installation and activation, see the instructions included in the repositori
 
 ### Interfaces
 
-### [KDE Plasma 5](https://gitlab.com/lmintmate/blue-mood-kde-color-scheme)
+### [KDE Plasma 5](https://github.com/lmintmate/blue-mood-kde-color-scheme)
 ![kde plasma screenshot](screenshots/kde-color-scheme-screenshot.png)
 ### [eDEX UI](https://github.com/lmintmate/blue-mood-edex-ui)
 ![edex ui screenshot](screenshots/blue-mood-edex-screenshot.png)
