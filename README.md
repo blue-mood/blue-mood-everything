@@ -29,7 +29,7 @@ For installation and activation, see the instructions included in the repositori
 ![xresources screenshot](screenshots/xresources-screenshot.png)
 ### [konsole](https://github.com/lmintmate/blue-mood-konsole)
 ![konsole screenshot](screenshots/konsole-screenshot.png)
-### [Gnome terminal and derivatives](https://gist.github.com/lmintmate/176a3c1b322726fbad7da6b1c60fe014) (using [Gogh](https://github.com/Mayccoll/Gogh))
+### [Gnome terminal and derivatives](https://gist.github.com/lmintmate/896dd960a5ef370f8cd8612688ffa3ef) (using [Gogh](https://github.com/Mayccoll/Gogh))
 (screenshot same as xresources and konsole)
 
 ### Interfaces
