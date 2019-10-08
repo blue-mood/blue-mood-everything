@@ -31,6 +31,8 @@ For installation and activation, see the instructions included in the repositori
 ![konsole screenshot](screenshots/konsole-screenshot.png)
 ### [Gnome terminal and derivatives](https://gist.github.com/lmintmate/896dd960a5ef370f8cd8612688ffa3ef) (using [Gogh](https://github.com/Mayccoll/Gogh))
 (screenshot same as xresources and konsole)
+### [Conemu/cmder](https://github.com/blue-mood/blue-mood-conemu)
+![conemu screenshot](screenshots/conemu-screenshot.png)
 
 ### Interfaces
 
